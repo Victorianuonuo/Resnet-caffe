@@ -10,3 +10,5 @@ the experiments are still undergoing
 
 the prototxt can be visualized by http://ethereon.github.io/netscope/#/editor, or use the draw_net.py provided by caffe
 
+the codes are inspired by https://github.com/soeaver/caffe-model
+
